@@ -1,0 +1,32 @@
+{
+  "history": [
+    {
+      "time": "2025-11-08T15:34:57.591513",
+      "type": "fact",
+      "key": "isim",
+      "value": "ahmet"
+    },
+    {
+      "time": "2025-11-08T15:35:05.834171",
+      "type": "fact",
+      "key": "sehir",
+      "value": "istanbul"
+    },
+    {
+      "time": "2025-11-08T15:48:03.793856",
+      "key": "weather_ankara",
+      "value": "Ankara: 19.0°C, Az bulutlu"
+    },
+    {
+      "time": "2025-11-08T15:48:22.753694",
+      "key": "weather_paris",
+      "value": "Paris: 13.6°C, Bulutlu"
+    }
+  ],
+  "facts": {
+    "isim": "ahmet",
+    "sehir": "istanbul",
+    "weather_ankara": "Ankara: 19.0°C, Az bulutlu",
+    "weather_paris": "Paris: 13.6°C, Bulutlu"
+  }
+}

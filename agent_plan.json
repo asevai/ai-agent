@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    "Uçak bileti ara: İstanbul → Paris",
+    "Otel öner: Paris merkez",
+    "Restoran bul: Paris yerel lezzet",
+    "Günlük gezi rotası çiz"
+  ],
+  "current": 4
+}

@@ -1,0 +1,16 @@
+{
+  "plans": [
+    {
+      "city": "Roma",
+      "days": 3,
+      "weather": "Roma: 8.9°C, Kapalı",
+      "steps": [
+        "Gün 1: Roma merkez turu",
+        "Gün 2: Tarihi yerler gezisi",
+        "Gün 3: Yerel lezzetler + dönüş"
+      ],
+      "completed": 3,
+      "created": "2025-11-08T15:49:50.579952"
+    }
+  ]
+}
